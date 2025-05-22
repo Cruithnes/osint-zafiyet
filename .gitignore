@@ -1,0 +1,3 @@
+.env
+#security misconfigrationın çözümü için .env dosyasının gitignora eklenmesi lazım
+node_modules
